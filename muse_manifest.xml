@@ -1,0 +1,38 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Wantech.github.io" resolutions="1x" timestamp="1497161799388">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3934481671" ref="ask-us:gaming:tech:index:about-us"/>
+    <file name="ask-us.css" crc="4227103249" ref="ask-us"/>
+    <file name="gaming.css" crc="4227103249" ref="gaming"/>
+    <file name="tech.css" crc="4227103249" ref="tech"/>
+    <file name="index.css" crc="4227103249" ref="index"/>
+    <file name="about-us.css" crc="4227103249" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="museutils.js" crc="163421577" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="museconfig.js" crc="168988563" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="require.js" crc="244322403" ref="index:gaming:about-us:tech:ask-us"/>
+  </folder>
+  <folder name="images">
+    <file name="code-820275_1920.jpg" crc="3806641314" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u184-4.png" crc="360501672" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="u191-4.png" crc="3887637056" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="u231-4.png" crc="4234460403" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="u257-4.png" crc="207738052" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="u288-4.png" crc="4225062588" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="golden-eagle.jpg" crc="3775478594" seo="true" ref="index:gaming:about-us:tech:ask-us"/>
+    <file name="u337-4.png" crc="4035917799" ref="index:gaming:about-us:tech:ask-us"/>
+  </folder>
+  <file name="index.html" crc="197054079" seo="true" mt="1497161721959" redirect="true"/>
+  <file name="gaming.html" crc="54675669" seo="true" mt="1497161721959" redirect="true"/>
+  <file name="about-us.html" crc="3819642388" seo="true" mt="1497161721959" redirect="true"/>
+  <file name="tech.html" crc="314845141" seo="true" mt="1497161721959" redirect="true"/>
+  <file name="ask-us.html" crc="3968809486" seo="true" mt="1497161721959" redirect="true"/>
+</manifest>
